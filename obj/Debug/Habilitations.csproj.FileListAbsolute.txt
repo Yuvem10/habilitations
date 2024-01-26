@@ -1,0 +1,11 @@
+C:\Users\Mateo\source\repos\Habilitations\bin\Debug\Habilitations.exe.config
+C:\Users\Mateo\source\repos\Habilitations\bin\Debug\Habilitations.exe
+C:\Users\Mateo\source\repos\Habilitations\bin\Debug\Habilitations.pdb
+C:\Users\Mateo\source\repos\Habilitations\obj\Debug\Habilitations.csproj.AssemblyReference.cache
+C:\Users\Mateo\source\repos\Habilitations\obj\Debug\Habilitations.Properties.Resources.resources
+C:\Users\Mateo\source\repos\Habilitations\obj\Debug\Habilitations.view.FrmHabilitations.resources
+C:\Users\Mateo\source\repos\Habilitations\obj\Debug\Habilitations.csproj.GenerateResource.cache
+C:\Users\Mateo\source\repos\Habilitations\obj\Debug\Habilitations.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\Habilitations\obj\Debug\Habilitations.exe
+C:\Users\Mateo\source\repos\Habilitations\obj\Debug\Habilitations.pdb
+C:\Users\Mateo\source\repos\Habilitations\obj\Debug\Habilitations.exe.config
